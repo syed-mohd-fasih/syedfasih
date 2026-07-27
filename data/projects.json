@@ -1,0 +1,23 @@
+{
+	"projects": [
+		{
+			"slug": "zentrion",
+			"name": "Zentrion",
+			"flagship": true,
+			"order": 1,
+			"status": "completed",
+			"role": "Solo developer",
+			"timeline": "6 months",
+			"year": 2025,
+			"tags": ["Python", "NestJS", "Next.js"],
+			"tagColors": { "Python": "infra", "NestJS": "backend", "Next.js": "frontend" },
+			"hook": "My FYP — three runtimes that had to agree on state in real time.",
+			"overview": "Write the 01 overview here.",
+			"challenge": "Write the 02 challenge here.",
+			"solution": "Write the 03 solution here.",
+			"reflection": "Write the 04 reflection here.",
+			"links": { "live": null, "source": "https://github.com/syed-mohd-fasih/zentrion" },
+			"cover": "/images/projects/zentrion/cover.webp"
+		}
+	]
+}
